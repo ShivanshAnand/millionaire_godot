@@ -13,7 +13,7 @@
 " What is the meaning of the Persian word 'Ab' used in the word 'Punjab'  ?",
 ],
 
-"op":["83","77","70","42"],
+"op":[["83","77","70","42"],
 ["Desert","Ocean","Mountain","Forest"],
 [" Bangladesh "," Sri Lanka "," India "," West Indies "],
 [" Fiza "," Afreen "," Salma "," Tabussum "],
