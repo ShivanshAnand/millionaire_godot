@@ -20,8 +20,8 @@
 [" Philippine Sea "," South China Sea "," Sea of Japan "," East China Sea "],
 [" Francis Gladwin "," Max Weber "," Sir Charles Wilkins "," Sir William Jones "],
 [" Kissing "," Slapping "," Kicking "," Hugging "],
-[" Loud Music "," use of phone while driving "," Black film on Windows "," High – Speed Driving "],
-[" Sodium "," Protein "," Iodine "," Vitamin "]
+[" Loud Music "," use of phone while driving "," Black film on Windows "," High-Speed Driving "],
+[" Sodium "," Protein "," Iodine "," Vitamin "],
 ["B-D-C-A","B-D-A-C-","A-C-B-D","C-A-B-D"],
 ["Panchamrit","Pancharanga","Panch Phoron","Panchangam"]]
 
