@@ -4,7 +4,7 @@
 "In 2011, who replaced Gary Kirsten as the coach of the Indian Test cricket team ?",
 "Who founded the political party National People's Party (NPP) in January 2013 ?",
 "During the start of his political life, Sher Shah Suri was the 'jagirdar' of which place ?",
-"Which state or UT of India is divided into four districts – all named after the four cardinal directories ?",
+"Which state or UT of India is divided into four districts - all named after the four cardinal directories ?",
 "Who holds the record of being elected to the Lok Sabha for the most number of terms ?",
 "What was the name of Jain tirtankar Mahavira's wife ?",
 "Which of these Indian currency notes does not have the special geometrical shape that helps the visually impaired denominations ?",
