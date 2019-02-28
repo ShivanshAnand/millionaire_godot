@@ -22,7 +22,7 @@
 [" U N Dhebar "," G V Mavalankar "," J B Kripalani "," R K Shanmukham Chetty "],
 [" Sheila "," Bebo "," Chameli "," Munni "],
 [" Shiva "," Rama "," Ganesha "," Krishna "],
-[" Batik printing "," Block printing "," Chikankari "," Zardozi "]
+[" Batik printing "," Block printing "," Chikankari "," Zardozi "],
 ["Platinum Jubilee","Silver Jubilee","Diamond Jubilee","Golden Jubilee"]],
 
 "ans":[0,0,3,0,2,0,1,3,2,1,2]

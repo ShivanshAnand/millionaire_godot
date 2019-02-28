@@ -1,16 +1,16 @@
 {
 
 "ques":["What is the new name of the Hyderabad franchise that would replace Deccan Charges in IPL6 ?",
-"In India, under which Union Ministry does the ‘Rajbhasha Vibhag’ function ?",
-"According to a proverb, what is said to be ‘the mother of invention’  ?",
+"In India, under which Union Ministry does the 'Rajbhasha Vibhag' function ?",
+"According to a proverb, what is said to be 'the mother of invention'  ?",
 "Floor exercise, vault, and uneven bars are events in which sport  ?",
 "Which actress got married to Siddharth Roy Kapur in 2012  ?",
 "Which among these is an Island country  ?",
 "what has been e currency of Greece sine 2002 ?",
 " Which constituency does Abhijit Mukherjee represents in the 15th Lok Sabha  ?",
-" which Indian sportsperson was awarded the “order of Australia” award in 2012 ?",
+" which Indian sportsperson was awarded the 'order of Australia' award in 2012 ?",
 " Which incarnation of Vishnu appeared when the demon king Bali ruled the entire universe  ?",
-" To whom did Ravindranath Tagore dedicate his book ‘visva parichay’ written on science ?",
+" To whom did Ravindranath Tagore dedicate his book 'visva parichay' written on science ?",
 ],
 
 "op":[[" Sun Chargers "," Nizam Jyothi "," Andhra Aces "," Sun risers Hyderabad "],

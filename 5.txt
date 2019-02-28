@@ -5,7 +5,7 @@
 "Which part of 'Pudina' plant is normally used to make 'pudina chutney'  ?",
 "Whose different forms are 'Shailputri', 'Brahmcharani' and 'Chandraghanta'  ?",
 "Which of these names means 'lightning' ?",
-"Which of these words can refer to 'a fairly low temperature' or 'fashionably’ or impressive' ?",
+"Which of these words can refer to 'a fairly low temperature' or 'fashionably' or impressive' ?",
 "Which of these names means 'gold-like' ?",
 " Which of these brands of pens is named after highest peak in Western Europe ?",
 " What does the 'F' stands for in the Motorsports popularly known as F1 ?",
